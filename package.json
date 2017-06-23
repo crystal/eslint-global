@@ -1,0 +1,21 @@
+{
+  "name": "eslint-global",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crystal/eslint-global.git"
+  },
+  "author": "Crystal Tate",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/crystal/eslint-global/issues"
+  },
+  "homepage": "https://github.com/crystal/eslint-global#readme",
+  "devDependencies": {
+    "eslint": "^3.19.0",
+    "eslint-config-airbnb": "15.0.1",
+    "eslint-plugin-import": "^2.2.0",
+    "eslint-plugin-jsx-a11y": "^5.0.1",
+    "eslint-plugin-react": "^7.0.1"
+  }
+}
